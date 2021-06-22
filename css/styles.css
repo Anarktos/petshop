@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;   
+}
+
+body{
+    background-color: #ededed;
+
+}
+
+.home{
+    display: flex;
+}
+
+.in-flex{
+    flex: 1;
+}
+
+.in-flex:first-child{
+    flex: 2;
+}
+
